@@ -25,4 +25,5 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers/okgwknt?label=follow&logo=github&style=flat" />
   </a>
 <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okgwknt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okgwknt&layout=compact">
+<img src="https://github.com/anuraghazra/github-readme-stats">
