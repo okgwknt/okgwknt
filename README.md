@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> 
+  <a href="https://github.com/okgwknt/okgwknt/">
+    <img src="https://komarev.com/ghpvc/?username=okgwknt" alt="okgwknt" />
+  </a>
+  <a href="http://twitter.com/okgwknt">
+    <img height="20" src="https://img.shields.io/twitter/follow/okgwknt?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/okgwknt">
+    <img height="20" src="https://img.shields.io/github/followers/okgwknt?label=follow&logo=github&style=flat" />
+  </a>
+<p>
