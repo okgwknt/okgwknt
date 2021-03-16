@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   </a>
 <p>
   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okgwknt&layout=compact">
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okgwknt&layout=compact&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okgwknt&layout=compact&theme=dark">
-
+-->
