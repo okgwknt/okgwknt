@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <p align="left"> 
-  <a href="https://github.com/okgwknt/okgwknt/">
-    <img src="https://komarev.com/ghpvc/?username=okgwknt" alt="okgwknt" />
-  </a>
+
   <a href="https://github.com/okgwknt">
     <img height="20" src="https://img.shields.io/github/followers/okgwknt?label=follow&logo=github&style=flat" />
   </a>
@@ -26,4 +24,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okgwknt&layout=compact">
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okgwknt&layout=compact&theme=dark">
+  <a href="https://github.com/okgwknt/okgwknt/">
+    <img src="https://komarev.com/ghpvc/?username=okgwknt" alt="okgwknt" />
+  </a>
 -->
