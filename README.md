@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/okgwknt">
-  <img height="20" src="https://img.shields.io/github/followers/okgwknt?label=follow&logo=github&style=flat" />
-</a>
+
 <!--
 **okgwknt/okgwknt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
