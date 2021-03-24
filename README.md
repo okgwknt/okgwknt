@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   <img alt="Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okgwknt&layout=compact&count_private=true&show_icons=true&show_icons=true" />
-  <img alt="stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=okgwknt&count_private=true" />
+  <img alt="stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=okgwknt&count_private=true&show_icons=true" />
 </p>
 
 <!--
