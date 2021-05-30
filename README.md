@@ -9,12 +9,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning http tcp/ip.
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything [here](https://github.com/okgwknt/okgwknt/issues)
-  <!-- - 👯 I’m looking to collaborate on ... -->
-  - 📫 How to reach me: ...
+- 📫 How to reach me: ...
   <!-- - 😄 Pronouns: ... -->
   <!-- - ⚡ Fun fact: ... -->
+  <!-- - 🤔 I’m looking for help with ... -->
+  <!-- - 👯 I’m looking to collaborate on ... -->
+
 
 <p align="left"> 
   <img alt="stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=okgwknt&count_private=true&show_icons=true" />
