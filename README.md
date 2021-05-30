@@ -8,11 +8,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning http tcp/ip.
+<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything [here](https://github.com/okgwknt/okgwknt/issues)
   <!-- - 👯 I’m looking to collaborate on ... -->
-  <!-- - 📫 How to reach me: ... -->
+  - 📫 How to reach me: ...
   <!-- - 😄 Pronouns: ... -->
   <!-- - ⚡ Fun fact: ... -->
 
