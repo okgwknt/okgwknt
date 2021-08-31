@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about anything [here](https://github.com/okgwknt/okgwknt/issues)
 
-- 📫 How to reach me: [@okgwknt](https://twitter.com/okgwknt
+- 📫 How to reach me: [@okgwknt](https://twitter.com/okgwknt)
 
   <!-- - 😄 Pronouns: ... -->
   <!-- - ⚡ Fun fact: ... -->
