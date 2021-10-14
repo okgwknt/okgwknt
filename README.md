@@ -17,6 +17,7 @@ Here are some ideas to get you started:
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 👯 I’m looking to collaborate on ... -->
 
+  <!-- Hello, Ubuntu. -->
 ---
 
 <p align="left"> 
