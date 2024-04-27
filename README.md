@@ -19,8 +19,3 @@ Here are some ideas to get you started:
 
   <!-- Hello, Ubuntu. -->
 ---
-
-<p align="left"> 
-  <img alt="stats" width="52%" src="https://github-readme-stats.vercel.app/api?username=okgwknt&count_private=true&show_icons=true&theme=material-palenight" />
-  <img alt="Langs" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okgwknt&layout=compact&langs_count=8&hide=html&theme=material-palenight" />
-</p>
